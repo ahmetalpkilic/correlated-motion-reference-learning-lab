@@ -1,0 +1,89 @@
+{
+  "reviewed_at": "2026-10-01T10:01:19.547114+00:00",
+  "sources": [
+    {
+      "repository": "brandondube/prysm",
+      "url": "https://github.com/brandondube/prysm",
+      "commit": "5008f47803af6ff69eed474fca049456076e4a7d",
+      "commit_date": "2026-07-26T02:06:10Z",
+      "message": "geometry,segmented: use signed distance functions to draw segment apertures and composite",
+      "pushed_at": "2026-07-26T02:06:40Z",
+      "archived": false,
+      "license": {
+        "key": "mit",
+        "name": "MIT License",
+        "spdx_id": "MIT",
+        "url": "https://api.github.com/licenses/mit",
+        "node_id": "MDc6TGljZW5zZTEz"
+      },
+      "license_path": "licenses/brandondube_prysm.txt",
+      "license_url": "https://github.com/brandondube/prysm/blob/5008f47803af6ff69eed474fca049456076e4a7d/LICENSE.md"
+    },
+    {
+      "repository": "scipy/scipy",
+      "url": "https://github.com/scipy/scipy",
+      "commit": "a2648457182ec64583de8c025678b9133b888af5",
+      "commit_date": "2026-10-01T06:46:02Z",
+      "message": "MNT/CI: Run the Pyodide test suite unsplit, and update to semicolon-lapack v0.01.5-pre (#26319)",
+      "pushed_at": "2026-10-01T06:46:02Z",
+      "archived": false,
+      "license": {
+        "key": "bsd-3-clause",
+        "name": "BSD 3-Clause \"New\" or \"Revised\" License",
+        "spdx_id": "BSD-3-Clause",
+        "url": "https://api.github.com/licenses/bsd-3-clause",
+        "node_id": "MDc6TGljZW5zZTU="
+      },
+      "license_path": "licenses/scipy_scipy.txt",
+      "license_url": "https://github.com/scipy/scipy/blob/a2648457182ec64583de8c025678b9133b888af5/LICENSE.txt"
+    },
+    {
+      "repository": "numpy/numpy",
+      "url": "https://github.com/numpy/numpy",
+      "commit": "c44e705a1b63a1665841177b5d77012146bea2a8",
+      "commit_date": "2026-10-01T02:06:34Z",
+      "message": "TYP: ``polynomial.*{mulx,2poly}`` and ``poly2*`` inline callable protocols as functions (#32842)",
+      "pushed_at": "2026-10-01T02:06:34Z",
+      "archived": false,
+      "license": {
+        "key": "other",
+        "name": "Other",
+        "spdx_id": "NOASSERTION",
+        "url": null,
+        "node_id": "MDc6TGljZW5zZTA="
+      },
+      "license_path": "licenses/numpy_numpy.txt",
+      "license_url": "https://github.com/numpy/numpy/blob/c44e705a1b63a1665841177b5d77012146bea2a8/LICENSE.txt"
+    },
+    {
+      "repository": "matplotlib/matplotlib",
+      "url": "https://github.com/matplotlib/matplotlib",
+      "commit": "825479c5c8df142a564a860b64f780ee26a4f643",
+      "commit_date": "2026-09-30T03:19:54Z",
+      "message": "Merge pull request #32408 from tacaswell/sty/drop_isort",
+      "pushed_at": "2026-09-30T03:22:33Z",
+      "archived": false,
+      "license": null,
+      "license_path": "licenses/matplotlib_matplotlib.txt",
+      "license_url": "https://github.com/matplotlib/matplotlib/blob/825479c5c8df142a564a860b64f780ee26a4f643/LICENSE/LICENSE"
+    },
+    {
+      "repository": "ahmetalpkilic/motion-calibration-timing-learning-lab",
+      "url": "https://github.com/ahmetalpkilic/motion-calibration-timing-learning-lab",
+      "commit": "39b08810ccd9559ba0515135dd781f363278afa0",
+      "commit_date": "2026-09-30T20:38:29Z",
+      "message": "Clarify optical units, shutter quadrature and calibration residuals",
+      "pushed_at": "2026-09-30T20:38:31Z",
+      "archived": false,
+      "license": {
+        "key": "mit",
+        "name": "MIT License",
+        "spdx_id": "MIT",
+        "url": "https://api.github.com/licenses/mit",
+        "node_id": "MDc6TGljZW5zZTEz"
+      },
+      "license_path": "licenses/ahmetalpkilic_motion-calibration-timing-learning-lab.txt",
+      "license_url": "https://github.com/ahmetalpkilic/motion-calibration-timing-learning-lab/blob/39b08810ccd9559ba0515135dd781f363278afa0/LICENSE"
+    }
+  ]
+}
